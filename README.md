@@ -2,6 +2,8 @@
 
 > Batch image compression — shrink images without sacrificing quality.
 
+This repository contains only the built distribution files. The source code is not publicly available.
+
 ## Features
 
 - Compress PNG, JPG, WebP, and AVIF images in batches
